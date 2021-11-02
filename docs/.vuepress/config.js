@@ -3,7 +3,7 @@ module.exports = {
     description: '一群想为信息安全做点微末贡献的理想主义者',
     base:"/",
     themeConfig: {
-        repo: 'xiecat/xiecat.github.io',
+        repo: 'xiecat',
         repoLabel: 'GitHub',
         docsRepo: 'xiecat/xiecat.github.io',
         docsDir: 'docs',
